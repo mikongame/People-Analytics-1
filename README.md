@@ -1,4 +1,4 @@
-# People-Analytics
+# Absenteeism-Analytics
 HR Employee Absenteeism
 The employer data has been analysed to find out the absenteeism patterns of the employees.
 Considering the parameters gender, location, department, function various absenteeism patterns were analysed 
